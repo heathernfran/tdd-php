@@ -1,0 +1,13 @@
+{
+  "name": "hfrantisak/tdd-php",
+  "type": "project",
+  "require": {
+    "phpunit/phpunit": "^6.1"
+  },
+  "authors": [
+    {
+      "name": "Heather Frantisak",
+      "email": "heathernfran@gmail.com"
+    }
+  ]
+}
